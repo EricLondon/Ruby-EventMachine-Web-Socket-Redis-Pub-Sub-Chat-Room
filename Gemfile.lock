@@ -13,7 +13,7 @@ GEM
     http_parser.rb (0.6.0)
     mustermann (2.0.2)
       ruby2_keywords (~> 0.0.1)
-    rack (2.2.6.2)
+    rack (2.2.6.3)
     rack-protection (2.2.3)
       rack
     ruby2_keywords (0.0.5)
